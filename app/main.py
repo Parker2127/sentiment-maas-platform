@@ -1,5 +1,4 @@
 from fastapi import FastAPI, HTTPException, Response
-import mlflow.pyfunc
 import os
 try:
     from app.schema import UnifiedFeatureSchema
