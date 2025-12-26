@@ -1,0 +1,5 @@
+resource_group_name = "sentiment-maas-rg"
+location            = "East US"
+acr_name            = "sentimentmaasacr"
+app_name            = "sentiment-maas-app"
+alert_email         = "admin@example.com"
